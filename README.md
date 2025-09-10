@@ -3,10 +3,10 @@
 This repository contains my project for the Data Science & Analytics internship (Task 1) as part of the FUTURE program. The goal of this task is to analyze e-commerce sales data from a superstore using Power BI to provide actionable insights for business decision-making.
 
 ## 📂 Files Included
-FUTURE_DS_01.pbix – Power BI report file with interactive charts and filters.
-superstore.xls – Dataset containing sales records used for analysis.
-Report.pdf – A detailed report explaining the methodology, findings, and recommendations.
-Screenshots – Folder containing images of the dashboard visuals for quick reference.
+- FUTURE_DS_01.pbix – Power BI report file with interactive charts and filters.
+- superstore.xls – Dataset containing sales records used for analysis.
+- Report.pdf – A detailed report explaining the methodology, findings, and recommendations.
+- Screenshots – Folder containing images of the dashboard visuals for quick reference.
 
 
 ## ✅ Project Objectives
